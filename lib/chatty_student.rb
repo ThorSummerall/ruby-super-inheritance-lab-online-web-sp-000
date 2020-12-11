@@ -9,7 +9,6 @@ class ChattyStudent < Student
     while counter < 10 do
       counter += 1
       super
-      puts "Pick me!"
     end
   end
 end
